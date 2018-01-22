@@ -1,7 +1,7 @@
-package com.jackie.controller;
+package com.lalala.controller;
 
-import com.jackie.dao.UserMapper;
-import com.jackie.entity.User;
+import com.lalala.dao.UserMapper;
+import com.lalala.entity.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

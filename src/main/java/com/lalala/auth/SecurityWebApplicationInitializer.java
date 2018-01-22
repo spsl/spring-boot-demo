@@ -1,4 +1,4 @@
-package com.jackie.auth;
+package com.lalala.auth;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 

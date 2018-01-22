@@ -1,4 +1,4 @@
-package com.jackie.entity;
+package com.lalala.entity;
 
 /**
  * Created by lwxzbh on 2017/7/20.

@@ -1,7 +1,7 @@
-package com.jackie.common;
+package com.lalala.common;
 
 import com.alibaba.fastjson.JSON;
-import com.jackie.entity.User;
+import com.lalala.entity.User;
 
 import java.util.ArrayList;
 import java.util.List;

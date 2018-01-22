@@ -1,9 +1,8 @@
-package com.jackie.dao;
+package com.lalala.dao;
 
-import com.jackie.entity.User;
+import com.lalala.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.Mapping;
 
 import java.util.List;
 
