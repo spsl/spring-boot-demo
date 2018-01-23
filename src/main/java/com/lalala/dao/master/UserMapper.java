@@ -1,4 +1,4 @@
-package com.lalala.dao;
+package com.lalala.dao.master;
 
 import com.lalala.entity.User;
 import org.apache.ibatis.annotations.Mapper;
